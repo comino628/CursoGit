@@ -9,3 +9,4 @@ int uva;
 -tienda de campaña
 -cerveza
 -secadora
+-crema para peinar
